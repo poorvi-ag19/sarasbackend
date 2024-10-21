@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "category": "Popular",
+      "question": "What programs do you offer?",
+      "answer": "We offer various undergraduate and postgraduate programs..."
+    },
+    {
+      "id": 2,
+      "category": "Popular",
+      "question": "What are the admission requirements?",
+      "answer": "Admission requirements include..."
+    },
+    {
+      "id": 3,
+      "category": "Popular",
+      "question": "How do I apply?",
+      "answer": "You can apply online through our application portal..."
+    },
+    {
+      "id": 4,
+      "category": "Admissions",
+      "question": "What is the application deadline?",
+      "answer": "The application deadline is..."
+    },
+    {
+      "id": 5,
+      "category": "Curriculum",
+      "question": "What is the course structure?",
+      "answer": "The course structure is divided into..."
+    }
+  ]
+  
